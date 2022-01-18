@@ -1,0 +1,10 @@
+ini adalah file eksternal
+dan ini adalah baris ke-dua
+
+data
+no	nama
+1	aing
+2	maneh
+3	sia
+4	sieta
+5	arurang
